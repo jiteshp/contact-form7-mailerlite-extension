@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-10-27 15:56+0530\n"
+"PO-Revision-Date: 2016-10-27 15:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: templates/options.php:4
+#, php-format
+msgid ""
+"Set a valid API Key from your <a href=\"%s\" target=\"_blank\">MailerLite "
+"Account</a>. The API key is mandatory."
+msgstr ""
+
+#: templates/options.php:15
+msgid "API Key"
+msgstr ""
+
+#: templates/panel.php:1 wpcf7-mailerlite.php:146
+msgid "MailerLite"
+msgstr ""
+
+#: templates/panel.php:5
+#, php-format
+msgid "Please <a href=\"%s\">set a valid API Key</a> in the settings."
+msgstr ""
+
+#: templates/panel.php:10
+msgid ""
+"Select a group to which you want to add the subscribers. Leave unselected if "
+"you <em>do not</em> want to add subscribers."
+msgstr ""
+
+#: templates/panel.php:14
+msgid "&mdash;"
+msgstr ""
+
+#: templates/panel.php:30
+msgid ""
+"<strong>Important</strong>: The subscriber email address is picked up from "
+"the <strong><em>your-email</em></strong> tag. Please make sure you have it "
+"in your form."
+msgstr ""
+
+#: wpcf7-mailerlite.php:117 wpcf7-mailerlite.php:118
+msgid "MailerLite Settings"
+msgstr ""
